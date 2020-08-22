@@ -31,6 +31,7 @@ set guioptions-=L
 set background=dark
 " colorscheme peaksea
 colorscheme palenight
+" colorscheme gruvbox
 let g:lightline = { 'colorscheme': 'palenight' }
 let g:airline_theme = "palenight"
 
